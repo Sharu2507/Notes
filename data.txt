@@ -1,0 +1,35 @@
+INFO : Application started sucessfully
+INFO : user log in successful
+WARNING : Disk space low
+ERROR: failed to connect to database
+INFO : Scheduled task
+ERROR : null pointer exception occured
+INFO : application shutdown
+Whegdegwfgwekf
+wqgekqugwdiug
+Qdkjegfiuqegf
+wejgdiwegdfk
+ebgdkwjgdiuegd
+ewdhkwehdfl
+ewklhflhqeewedkdhol
+dnwifhiueqhoihoedh
+dqndgiuqw
+dehowqheou
+qdniehdk
+wqddlwqdjeq
+hekfjgue
+edwkhcl
+qwdnkleh
+edniokeh
+ednlknq
+nclkwdlqewlApple 
+Banana 
+cherry Apple 
+Banana 
+cherry Apple 
+Banana 
+cherry Apple 
+Banana 
+cherry Apple 
+Banana 
+cherry 
